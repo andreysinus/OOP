@@ -1,0 +1,17 @@
+﻿  8labb.cpp
+L:\ООП\8labb\8labb\8labb.cpp(43,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(52,41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(60,40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(61,40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(75,40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(76,40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(84,52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(85,52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(93,19): warning C4018: <=: несоответствие типов со знаком и без знака
+L:\ООП\8labb\8labb\8labb.cpp(143,40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(144,40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(155,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(160,149): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+L:\ООП\8labb\8labb\8labb.cpp(160,42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+L:\ООП\8labb\8labb\8labb.cpp(186,19): warning C4018: <=: несоответствие типов со знаком и без знака
+  8labb.vcxproj -> L:\ООП\8labb\Debug\8labb.exe
