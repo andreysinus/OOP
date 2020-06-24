@@ -160,19 +160,21 @@ int main()
 	setlocale(LC_ALL, "ru");
 
 	Holod one(420, 15900, "Lg gk-13229");
-	one.print();
+	Holod* b = &one;
+	b->print();
 	cout << endl;
 	Commercial two(480,17900,"Samsung sk-98209",78);
-	two.print();
+	b = &two;
+	b->print();
 	cout << endl;
 	Industrial three(590, 29100, "Samsung sgc-8721", "A++");
-	three.print();
-	cout << three.getName() << endl;
+	b = &three;
+	b->print();
+	cout << b->getName() << endl;
 	cout << endl;
 	FrostCam four(750, 22100, "Hotpoint-Ariston YGL-87u1", 55, "Шкаф", 2);
 	four.print();
 	cout << endl;
-
 	system("pause");
 	return 0;
 }
